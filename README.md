@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 ## Lab 1
 Metoda bayes
 ## Lab 2
